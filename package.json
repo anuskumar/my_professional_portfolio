@@ -1,7 +1,7 @@
 {
-  "private": true,
+  "private": false,
   "name": "opportfolio",
-  "homepage": "http://anuskumar.me/",
+  "homepage": "https://anuskumar.github.io/my_professional_portfolio/",
   "version": "1.2.0",
   "scripts": {
     "build": "react-scripts build",
